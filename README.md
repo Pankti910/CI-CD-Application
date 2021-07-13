@@ -32,4 +32,9 @@ This project is meant to be helpful in **Devlopment operations** (DevOps) for In
 ###### ('Compile'){javac \<name\>.java}
 ###### ('run'){java \<name\>}
 
+## Authentication
+##### Global Roles-Application Level Rights
+##### Local Roles-Project Level Rights
+
+
 ![Home Page](https://github.com/PoojanSmart/CI-CD-Application/blob/main/CICDApp/imgs/home.png)
